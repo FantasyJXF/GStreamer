@@ -1,0 +1,1 @@
+/usr/lib/ccache/cc     CMakeFiles/tutorial_1.dir/basic_tutorial-1.c.o  -o tutorial_1 -rdynamic -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 
