@@ -1,3 +1,0 @@
-/home/fantasy/RK3399/gst-docs/examples/Tutorials/build/CMakeFiles/rebuild_cache.dir
-/home/fantasy/RK3399/gst-docs/examples/Tutorials/build/CMakeFiles/edit_cache.dir
-/home/fantasy/RK3399/gst-docs/examples/Tutorials/build/CMakeFiles/tutorial_1.dir

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(tutorial_1)
+project(Tutorial)
 
 include(FindPkgConfig)
 find_package(PkgConfig)
@@ -21,5 +21,6 @@ include_directories(
 )
 
 add_executable(tutorial_1  ${CMAKE_CURRENT_SOURCE_DIR}/basic_tutorial-1.c)
-
+add_executable(tutorial_2  ${CMAKE_CURRENT_SOURCE_DIR}/basic_tutorial-2.c)
 target_link_libraries(tutorial_1 ${GSTREAMER_LIBRARIES})
+target_link_libraries(tutorial_2 ${GSTREAMER_LIBRARIES})
